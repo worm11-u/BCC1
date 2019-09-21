@@ -148,10 +148,11 @@ We will add some style code in the head of the document to match the background 
   </div>
 
   <!-- Finally we will add another jumbtron for our footer -->
+  /*
 
 <div class="jumbotron text-center" style="margin-bottom:0">
-    <p>Created for Learning Bootstrap 4 by Justin Hoffman. <br> Contact at:<a href="mailto:someone@example.com"> hoffjust@gmail.com</a> </p>
-
+    <p>Created for Learning Bootstrap 4  <br> Contact at:<a href="mailto:someone@example.com"> </a> </p>
+*/
 </div>
 
 
